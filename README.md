@@ -23,7 +23,7 @@ A procedurally generated maze exploration game where players navigate through tr
   - Grants temporary power-up to defeat enemies
 - 📈 **Live Scoring System**:
   - Points based on items collected and time taken
-  - Score and timer displayed at the top-left corner of the screen
+  - Score and timer displayed at the top-right corner of the screen
 - 🔊 **Sound System**:
   - Includes background music and effects for actions like collecting items and enemy encounters
 
